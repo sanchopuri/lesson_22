@@ -1,0 +1,12 @@
+body{
+	font-family: 'Lato', Courier, monospace;
+	font-style: 20px;
+}
+
+.artical__text{
+	color: blue;
+}
+
+.artical__title{
+	color: peru;
+}
